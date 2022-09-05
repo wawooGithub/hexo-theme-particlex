@@ -2,13 +2,13 @@
 # Developer: argvchs
 
 # avatar image url
-head_img:
+head_img: static/klee.jpg
 
 # home page head info block
 head_block_enable: true
 
 # home page head background style
-home_background:
+home_background: static/black.jfif
 
 # WARNING! vf_fonts (variable fonts) feature is EXPERIMENTAL
 # MDN: https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide
@@ -48,12 +48,12 @@ menu:
 # side info card
 card:
     enable: true
-    description: ["Description..."] # You can add more
+    description: ["闭关修炼中…"] # You can add more
     icon_links:
         github:
             name: github
             theme: brands
-            link: https://github.com/argvchs
+            link: https://github.com/wawooGithub
         # Example:
         # <name>:
         #    name: <icon-name>
